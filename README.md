@@ -71,3 +71,7 @@ Contributions are welcome! Feel free to fork this repo and submit pull requests.
 ## 📜 License
 
 This project is released under the *MIT License*.
+
+
+Developed by: [Manish Kumar Bhatta] LinkedIn: [https://www.linkedin.com/in/manish-ku-bhatta-985080272]
+
